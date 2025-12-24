@@ -22,7 +22,7 @@ const draft = false;
 <img src="./little_kid_rollercoaster.jpg" alt="A picture of a rollercoaster at the Dortmund Weihnachtsmarkt">
 <img src="./xxl_brat.jpg" alt="A picture of XXL Bratwurst stand at the Dortmund Weihnachtsmarkt">
 <img src="./cheese_stick_santa.gif" alt="A gif of a robot Santa holding a stick full of cheese cubes in front of the world's largest Christmas tree">
-<br><br><br>
+<br><br><br><br><br>
 
 
 
