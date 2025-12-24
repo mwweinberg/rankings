@@ -1,11 +1,11 @@
 export default {
-	title: "The Canonical Ranking of Things, on the Internet",
-	url: "https://canonicalrankingofthings.net/",
+	title: "The Canonical Rankings of Things, on the Internet",
+	url: "https://canonicalrankingsofthings.net/",
 	language: "en",
 	description: "The correct ranking of things",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Undisclosed",
+		email: "",
+		url: "https://canonicalrankingsofthings.net/"
 	}
 }
