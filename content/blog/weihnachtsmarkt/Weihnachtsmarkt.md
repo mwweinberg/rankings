@@ -10,7 +10,9 @@ const draft = false;
 2. Aachen (TIE)<br>
 2. Goslar (TIE)<br>
 4. Dortmund<br>
-5. Köln<br><br><br></p>
+5. Köln<br>
+6. Weihnachtsmarkt am Schloss Charlottenburg
+7. Weihnachtsmarkt am Potsdamer Platz<br><br></p>
 
 
 
