@@ -11,8 +11,8 @@ const draft = false;
 2. Goslar (TIE)<br>
 4. Dortmund<br>
 5. Köln<br>
-6. Weihnachtsmarkt am Schloss Charlottenburg
-7. Weihnachtsmarkt am Potsdamer Platz<br><br></p>
+6. Schloss Charlottenburg<br>
+7. Potsdamer Platz<br><br></p>
 
 
 
